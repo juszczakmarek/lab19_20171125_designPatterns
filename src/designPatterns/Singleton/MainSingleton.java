@@ -5,14 +5,15 @@ package designPatterns.Singleton;
 
 import designPatterns.Singleton.Excercise.Level;
 import designPatterns.Singleton.Excercise.Logger;
+import designPatterns.Singleton.Excercise.LoggerEnum;
 
 public class MainSingleton {
 
     public static void main(String[] args) {
-        Logger.getInstance().Log(Level.INFO,"wiadomość numer 1");
-        Logger.getInstance().Log(Level.ERROR,"wiadomość numer 2");
-        Logger.getInstance().Log(Level.INFO,"wiadomość numer 3");
-
+        Logger.getInstance().Log(Level.INFO,"Przykładowa wiadomość typu Info");
+        Logger.getInstance().Log(Level.ERROR,"Przykładowa wiadomość wiadomość typu Error");
+        LoggerEnum.INSTANCE.Log(Level.ERROR,"Przykładowa wiadomość wiadomość typu Error");
+        LoggerEnum.INSTANCE.Log(Level.INFO,"Przykładowa wiadomość typu Info");
     }
 }
 
