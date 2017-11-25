@@ -48,7 +48,7 @@ public class Logger {
         stringBuilder.append(msg);
         stringBuilder.append(";(");
         stringBuilder.append(getClass().getSimpleName());
-        stringBuilder.append(")\n");
+        stringBuilder.append(") \n");
         return stringBuilder.toString();
     }
 
