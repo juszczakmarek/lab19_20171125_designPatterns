@@ -1,4 +1,4 @@
-package designPatterns.PizzeriaExample;
+package designPatterns.Builder.PizzeriaWithoutBuilder;
 
 public abstract class Pizza {
     protected String name;

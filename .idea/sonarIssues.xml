@@ -23,6 +23,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaUsingBuilder/Implementaion1/Pizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaUsingBuilder/Pizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaUsingBuilder/PizzeriaRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaWithoutBuilder/PizzeriaRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/designPatterns/Main.java">
           <value>
             <set />
@@ -54,6 +74,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/designPatterns/PizzeriaExample/Runner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/PizzeriaWithoutBuilder/PizzeriaRunner.java">
           <value>
             <set />
           </value>

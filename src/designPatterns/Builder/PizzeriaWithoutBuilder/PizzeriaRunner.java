@@ -1,4 +1,4 @@
-package designPatterns.PizzeriaExample;
+package designPatterns.Builder.PizzeriaWithoutBuilder;
 
 import java.util.Map;
 import java.util.Scanner;
@@ -29,9 +29,17 @@ public class PizzeriaRunner {
 
             System.out.print("Wybierz numer pizzy: ");
             myChoice = scanner.nextLine();
-            System.out.print("Wybrana pizza to: " + pizzaCollection.get(Integer.valueOf(myChoice)).getName());
-            System.out.println(", Składniki to: " + pizzaCollection.get(Integer.valueOf(myChoice)).getIngrendients());
-            System.out.println("-------------------");
+            if (Integer.valueOf(myChoice)>0 && Integer.valueOf(myChoice)<=pizzaCollection.size()) {
+                System.out.print("Wybrana pizza to: " + pizzaCollection.get(Integer.valueOf(myChoice)).getName());
+                System.out.println(", Składniki to: " + pizzaCollection.get(Integer.valueOf(myChoice)).getIngrendients());
+                System.out.println("-------------------");
+            } else if (Integer.valueOf(myChoice)==0) {
+                System.out.println("Good Bye!");
+                break;
+            } else {
+                System.out.print("Zły wybrałeś zły numer pizzy");
+            }
+
         }
     }
 

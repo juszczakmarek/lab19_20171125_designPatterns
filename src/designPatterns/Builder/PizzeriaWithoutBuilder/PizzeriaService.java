@@ -1,4 +1,4 @@
-package designPatterns.PizzeriaExample;
+package designPatterns.Builder.PizzeriaWithoutBuilder;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -28,8 +28,6 @@ public class PizzeriaService {
             stringBuilder.append(entry.getKey());
             stringBuilder.append("] ");
             stringBuilder.append(entry.getValue().getName());
-//            stringBuilder.append(", składniki: ");
-//            stringBuilder.append(entry.getValue().getIngrendients());
             System.out.println(stringBuilder.toString());
         }
     }

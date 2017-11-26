@@ -1,11 +1,6 @@
-package designPatterns.PizzeriaExample;
+package designPatterns.Builder.PizzeriaWithoutBuilder;
 
 public class Capriciosa extends Pizza {
-
-    private String name;
-    private String ingrendients;
-    private String dip;
-    private String dough;
 
     public Capriciosa(String name, String ingrendients, String dip, String dough) {
         this.name = name;
