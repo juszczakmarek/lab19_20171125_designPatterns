@@ -1,26 +1,37 @@
-package designPatterns.Singleton.Excercise;
+package designPatterns.Kreacyjne.Singleton.Excercise;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.PrintWriter;
+//w logu wpisana yyyy-mm-dd hh:mm:ss, typ logu, wiadomość
+//wykorzystac metodę PrintWriter
+//flush
+//printLn
+
+import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-public enum LoggerEnum {
+public class Logger {
 
-    INSTANCE;
-
+    private static Logger instance;
     private PrintWriter printWriter;
     private String fileName = "logfile.txt";
 
-    LoggerEnum() {
-
+    private Logger () {
         try {
             printWriter = new PrintWriter(new FileOutputStream(new File(fileName),true));
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
+    }
+
+    public static Logger getInstance() {
+        if (instance==null) {
+            synchronized (Logger.class) {
+                if (instance==null) {
+                    instance = new Logger();
+                }
+            }
+        }
+        return instance;
     }
 
     public void Log(Level level, String msg) {
@@ -37,8 +48,8 @@ public enum LoggerEnum {
         stringBuilder.append(msg);
         stringBuilder.append(";(");
         stringBuilder.append(getClass().getSimpleName());
-        stringBuilder.append(")\n");
-
+        stringBuilder.append(") \n");
         return stringBuilder.toString();
     }
+
 }

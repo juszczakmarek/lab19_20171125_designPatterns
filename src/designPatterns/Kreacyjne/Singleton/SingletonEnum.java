@@ -1,4 +1,4 @@
-package designPatterns.Singleton;
+package designPatterns.Kreacyjne.Singleton;
 
 public enum SingletonEnum {
     INSTANCE;

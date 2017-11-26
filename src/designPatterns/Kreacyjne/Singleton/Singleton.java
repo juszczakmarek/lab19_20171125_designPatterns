@@ -1,4 +1,4 @@
-package designPatterns.Singleton;
+package designPatterns.Kreacyjne.Singleton;
 
 //Singleton w wersji sekwencyjnej
 /**
@@ -9,11 +9,13 @@ package designPatterns.Singleton;
  *          }
  *      }
  * }
+ * volataile - dostęp do tej zmiennej jest NIEPODZIELNE, oznacza, że wszystkie operacje dotyczące tej zmiennej, muszą zostać wykonane w całości,
+ * np. te wołane w konstruktorze.
  * @return
  */
 public class Singleton {
 
-    private static Singleton instance;
+    private volatile static Singleton instance;
 
     private Singleton() {
         System.out.println("konstruktor");
