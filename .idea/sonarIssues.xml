@@ -23,7 +23,72 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/BuilderByBloch/Bloch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/BuilderByBloch/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/BuilderByBlock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/BuilderByBlock/Bloch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/BuilderByBlock/BuilderByBloch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/BuilderByBlock/BuilderByBlock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/JavaBeans/JavaBeans.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaUsingBuilder/Implementaion1/Pizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaUsingBuilder/Implementaion1/TelescopeConstructer/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaUsingBuilder/Implementaion1/TelescopeConstructer/ProductRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaUsingBuilder/Implementaion1/TelescopeConstructer/TelescopeConstructor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaUsingBuilder/Implementaion1/TelescopeConstructor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaUsingBuilder/Implementaion1/WrednyHurtownikExercise/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaUsingBuilder/Implementaion1/WrednyHurtownikExercise/ProductRunner.java">
           <value>
             <set />
           </value>
@@ -39,6 +104,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/designPatterns/Builder/PizzeriaWithoutBuilder/PizzeriaRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Builder/TelescopeConstructor/TelescopeConstructor.java">
           <value>
             <set />
           </value>

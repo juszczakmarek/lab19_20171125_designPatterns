@@ -1,4 +1,4 @@
-package designPatterns.Builder.PizzeriaUsingBuilder.Implementaion1;
+package designPatterns.Builder.Builder;
 
 public class Pizza {
 
