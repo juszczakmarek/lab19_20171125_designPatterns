@@ -118,6 +118,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Other/Addons.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Other/Coffee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Other/CoffeeShop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Other/Espresso.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Other/Extras.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/designPatterns/PizzeriaExample/Capriciosa.java">
           <value>
             <set />
@@ -204,6 +229,101 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/designPatterns/Singleton/SingletonWspolbieznie.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/CoffeeShop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Dodatek/BitaSmietana.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Dodatek/Cukier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Dodatek/Cynamon.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Dodatek/Dodatek.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Dodatek/Mleko.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Dodatek/Syrop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Espresso.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Kawa/Cappuccino.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Kawa/Doppio.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Kawa/Espresso.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Kawa/EspressoLungo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Kawa/FlatWhite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Kawa/Latte.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Kawa/Napoj.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/MainDeco.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Dekorator/Napoj.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Espresso.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/designPatterns/Strukturalny/Napoj.java">
           <value>
             <set />
           </value>
